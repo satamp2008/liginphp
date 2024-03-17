@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"name": "login-php",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
